@@ -2,15 +2,19 @@
 
 ### I'm a student at Newcastle University!
 
-- 🎓 I'm currently completing stage 3 of a BSc Computer Science degree!
-- 🌱 I’m learning Swift and Solidity!
+- 🎓 I'm currently completing the final stage of a BSc degree in Computer Science!
+- 🌱 I’m learning Swift and Solidity, with hopes of developing my own blockchain applications and iOS applications!
 - 🥅 2021 Goals: Create blockchain applications on the Ethereum network + iOS app development!
 
-#### What i'm working on 🔭
+#### What i'm working on:
 
-- 🛂 Im currently working on my dissertation, developing a blockchain based immunity passport! Check it out [here!](https://github.com/joshrdawson/covid-pass)
+- 🛂 [covid-pass](https://github.com/joshrdawson/covid-pass), a blockchain based immunity passport I'm working on as part of my stage 3 dissertation!
+  <br>
+- 🌊 [guzzle](https://github.com/joshrdawson/guzzle), a free iOS application which tracks your daily water intake!
 
-#### Languages and tools 🔨
+<br>
+
+#### Languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -23,7 +27,7 @@
 
 <br>
 
-#### Connect with me ✉️
+#### Connect with me:
 
 [<img align="left" alt="joshdawson.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="joshdawson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
