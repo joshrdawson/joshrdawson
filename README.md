@@ -2,9 +2,9 @@
 
 ### I'm a student at Newcastle University!
 
-- 🎓 I'm currently completing the final stage of a BSc degree in Computer Science!
+- 🎓 I'm currently completing the final stage of a BSc Computing Science degree!
 - 🌱 I’m learning Swift and Solidity, with hopes of developing my own blockchain applications and iOS applications!
-- 🥅 2021 Goals: Create blockchain applications on the Ethereum network + iOS app development!
+- 🥅 2021 Goals: Create blockchain applications on the Ethereum network & iOS app development!
 
 #### What i'm working on:
 
